@@ -1,1 +1,1 @@
-# NLP Pratical
+# NLP Praticals
